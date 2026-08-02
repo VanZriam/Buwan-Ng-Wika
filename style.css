@@ -26,7 +26,7 @@ body {
 }
 
 .wrapper {
-  max-width: 1200px;
+  max-width: 1500px;
   margin: 0 auto;
   background: white;
   border: 1px solid var(--gray-border);
